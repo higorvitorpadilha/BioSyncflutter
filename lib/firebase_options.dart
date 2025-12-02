@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'biosync-mobile.firebasestorage.app',
     measurementId: 'G-0ZT3YHCFPX',
   );
+
 }
